@@ -1,0 +1,8 @@
+websocket/Greeting.class
+websocket/WebSocketConfig.class
+websocket/Application.class
+websocket/GreetingController.class
+websocket/HelloMessage.class
+websocket/PickMessage.class
+websocket/PlayerList.class
+websocket/Player.class
